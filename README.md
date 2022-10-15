@@ -1,1 +1,3 @@
-# tictactoe-mobile
+# TicTacToe
+
+## React Native App
